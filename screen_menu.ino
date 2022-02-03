@@ -69,8 +69,7 @@ void LcdUpdate(char str0[],char str1[])
 
 
 //********************************************************
-//Button routine. To use it you just call it and put the
-//pin that the pulldown and the button is 
+//
 //********************************************************
 uint8_t button(int pin)
 {
